@@ -1,0 +1,15 @@
+/Users/josiahswab/Documents/projects/hello-dot-net/bin/Debug/net5.0/hello-dot-net.deps.json
+/Users/josiahswab/Documents/projects/hello-dot-net/bin/Debug/net5.0/hello-dot-net.runtimeconfig.json
+/Users/josiahswab/Documents/projects/hello-dot-net/bin/Debug/net5.0/hello-dot-net.runtimeconfig.dev.json
+/Users/josiahswab/Documents/projects/hello-dot-net/bin/Debug/net5.0/hello-dot-net.dll
+/Users/josiahswab/Documents/projects/hello-dot-net/bin/Debug/net5.0/ref/hello-dot-net.dll
+/Users/josiahswab/Documents/projects/hello-dot-net/bin/Debug/net5.0/hello-dot-net.pdb
+/Users/josiahswab/Documents/projects/hello-dot-net/obj/Debug/net5.0/hello-dot-net.csprojAssemblyReference.cache
+/Users/josiahswab/Documents/projects/hello-dot-net/obj/Debug/net5.0/hello-dot-net.GeneratedMSBuildEditorConfig.editorconfig
+/Users/josiahswab/Documents/projects/hello-dot-net/obj/Debug/net5.0/hello-dot-net.AssemblyInfoInputs.cache
+/Users/josiahswab/Documents/projects/hello-dot-net/obj/Debug/net5.0/hello-dot-net.AssemblyInfo.cs
+/Users/josiahswab/Documents/projects/hello-dot-net/obj/Debug/net5.0/hello-dot-net.csproj.CoreCompileInputs.cache
+/Users/josiahswab/Documents/projects/hello-dot-net/obj/Debug/net5.0/hello-dot-net.dll
+/Users/josiahswab/Documents/projects/hello-dot-net/obj/Debug/net5.0/ref/hello-dot-net.dll
+/Users/josiahswab/Documents/projects/hello-dot-net/obj/Debug/net5.0/hello-dot-net.pdb
+/Users/josiahswab/Documents/projects/hello-dot-net/obj/Debug/net5.0/hello-dot-net.genruntimeconfig.cache
